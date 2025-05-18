@@ -29,7 +29,7 @@ Lembretes/
 
 ## Como executar
 
-1. Iniciar um ambiente virtual:
+1. Criar e Iniciar um ambiente virtual:
 ```sh
    python -m venv venv
    venv\Scripts\activate
