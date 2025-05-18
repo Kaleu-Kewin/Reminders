@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lembretes</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Lembretes</h1>
+    </header>
+
+    <main>
+        <section id="formulario">
+            <h2>Criar Lembrete</h2>
+            <input type="text" id="titulo"   placeholder="Título do lembrete">
+            <input type="text" id="mensagem" placeholder="Mensagem do lembrete">
+            <input type="url"  id="link"     placeholder="Link (opcional)">
+            <input type="time" id="horario">
+            <button id="agendar" class="button">Agendar Lembrete</button>
+        </section>
+
+        <section id="notifications">
+            <h2>Notificações</h2>
+            <div id="notificationArea"></div>
+        </section>
+    </main>
+
+    <script src="script.js"></script>
+</body>
+</html>
