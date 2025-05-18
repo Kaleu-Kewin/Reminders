@@ -32,6 +32,7 @@ Lembretes/
 1. Iniciar um ambiente virtual:
 ```sh
    python -m venv venv
+   venv\Scripts\activate
 ```
 
 2. Instale as dependências:
