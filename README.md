@@ -1,10 +1,11 @@
 # Lembretes
-
 Projeto criado para aprender a criar rotas em Python e utilizar o Flask.
 
 ## Descrição
 
 Este projeto permite agendar lembretes para horários específicos, exibindo notificações no Windows. O backend foi desenvolvido em Python com Flask, enquanto o frontend é uma aplicação web simples em HTML, CSS e JavaScript.
+
+<img width="1336" height="951" alt="image" src="https://github.com/user-attachments/assets/ec8e149d-48fe-4922-b261-7c9b15a9c305" />
 
 ## Estrutura
 
